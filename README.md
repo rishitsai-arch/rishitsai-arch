@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:RISHIT SAI K 
 Currently working actively on Machine Learning <br>and Agentic AI <br>Student at IIITDMJ-CSE<br>Open to collaborate and learn.<br><br>
 
 
@@ -12,16 +12,18 @@ Currently working actively on Machine Learning <br>and Agentic AI <br>Student at
 ![](https://streak-stats.demolab.com/?user=rishitsai-arch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishitsai-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishitsai-arch&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishitsai-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=rishitsai-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
